@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nehaaa0701
 - 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning Reactjs,Mysql Database..
+- 🌱 I’m currently learning  Java Full stack Development at Naresh IT Institute..
   
 
 
