@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nehaaa0701
-- 👀 I’m interested in Web Devlopment
+- 👀 I’m interested in Java Full Stack Devlopment
 - 🌱 I’m currently learning  Java Full stack Development at Naresh IT Institute..
   
 
